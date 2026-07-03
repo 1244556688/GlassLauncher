@@ -1,0 +1,6 @@
+{
+  "name": "GlassLauncher",
+  "description": "A futuristic glassmorphic Android HOME launcher replacement optimized for tablets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
